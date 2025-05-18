@@ -9,6 +9,7 @@ WEATHER.IO is a front-end weather forecast application that fetches live weather
 The interface gracefully handles valid, empty, and invalid city queries with elegant feedback views.
 
 🌐 Live Preview
+
 https://web-development-weather-three.vercel.app/
 
 🛠️ Technologies Used

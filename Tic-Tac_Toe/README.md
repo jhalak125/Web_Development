@@ -12,6 +12,6 @@ https://web-development-tic-tac-toe.vercel.app/
 
 🛠️ Technologies Used
 
-HTML5 — Structure and semantic layout of the game.
-CSS3 — Styling with modern fonts, layout, and hover animations.
-JavaScript — Handles game logic, random AI moves, win/draw detection, and UI interactions.
+1. HTML5 — Structure and semantic layout of the game.
+2. CSS3 — Styling with modern fonts, layout, and hover animations.
+3. JavaScript — Handles game logic, random AI moves, win/draw detection, and UI interactions.

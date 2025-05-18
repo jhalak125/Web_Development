@@ -14,12 +14,12 @@ https://web-development-weather-three.vercel.app/
 
 🛠️ Technologies Used
 
-HTML5 – Semantic structure for responsive layout
-CSS3 – Glassmorphism design with flexible scroll and hover effects
-JavaScript – DOM interactions, API calls, conditionally rendered UI
-OpenWeatherMap API – Real-time weather and forecast data
-Google Material Symbols – Elegant icons for UI clarity
-Responsive Design** – Optimized for both mobile and desktop views
+1. HTML5 – Semantic structure for responsive layout
+2. CSS3 – Glassmorphism design with flexible scroll and hover effects
+3. JavaScript – DOM interactions, API calls, conditionally rendered UI
+4. OpenWeatherMap API – Real-time weather and forecast data
+5. Google Material Symbols – Elegant icons for UI clarity
+6. Responsive Design** – Optimized for both mobile and desktop views
 
 🎯 Features
 
